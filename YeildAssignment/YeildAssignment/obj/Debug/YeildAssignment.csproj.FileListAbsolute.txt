@@ -1,0 +1,7 @@
+D:\Front end\DotNetConsoleApps\YeildAssignment\YeildAssignment\bin\Debug\YeildAssignment.exe.config
+D:\Front end\DotNetConsoleApps\YeildAssignment\YeildAssignment\bin\Debug\YeildAssignment.exe
+D:\Front end\DotNetConsoleApps\YeildAssignment\YeildAssignment\bin\Debug\YeildAssignment.pdb
+D:\Front end\DotNetConsoleApps\YeildAssignment\YeildAssignment\obj\Debug\YeildAssignment.csprojAssemblyReference.cache
+D:\Front end\DotNetConsoleApps\YeildAssignment\YeildAssignment\obj\Debug\YeildAssignment.csproj.CoreCompileInputs.cache
+D:\Front end\DotNetConsoleApps\YeildAssignment\YeildAssignment\obj\Debug\YeildAssignment.exe
+D:\Front end\DotNetConsoleApps\YeildAssignment\YeildAssignment\obj\Debug\YeildAssignment.pdb
